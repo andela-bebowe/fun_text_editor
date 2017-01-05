@@ -1,0 +1,26 @@
+html {
+  font-family: 'Helvetica', sans-serif;
+}
+
+body {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#heading,
+#content {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+#heading {
+  font-size: 40px;
+}
+
+#content {
+  font-size: 24px;
+}
+
+div:focus {
+  outline: none;
+}
